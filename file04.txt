@@ -5,3 +5,5 @@ a change made by poech the king of rock & roll and he likes beers
 independent/1803w11 commit 1
 independent/1803w11 commit 2
 
+2019-01-16
+Line endings changed to LF
